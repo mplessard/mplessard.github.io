@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Tech Wanderer - Dev</title><link href="https://mplessard.github.io/fr/" rel="alternate"></link><link href="https://mplessard.github.io/feeds/dev.atom.xml" rel="self"></link><id>https://mplessard.github.io/fr/</id><updated>2017-09-03T00:00:00-04:00</updated><entry><title>Pourquoi vous devriez commencer à utiliser Markdown dès aujourd'hui</title><link href="https://mplessard.github.io/fr/why-you-should-start-using-Markdown-today" rel="alternate"></link><published>2017-09-03T00:00:00-04:00</published><updated>2017-09-03T00:00:00-04:00</updated><author><name>Marie</name></author><id>tag:mplessard.github.io,2017-09-03:/fr/why-you-should-start-using-Markdown-today</id><summary type="html">&lt;h2&gt;Qu'est-ce que Markdown?&lt;/h2&gt;
+&lt;p&gt;Comme HTML, &lt;a href="https://en.wikipedia.org/wiki/Markdown" rel="nofollow" target="_blank"&gt;Markdown&lt;/a&gt; est un langage de Markup. Par rapport au HTML, Markdown est plus léger et plus facile à écrire et à lire. Les langages de balisage permettent d'annoter votre texte …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Qu'est-ce que Markdown?&lt;/h2&gt;
+&lt;p&gt;Comme HTML, &lt;a href="https://en.wikipedia.org/wiki/Markdown" rel="nofollow" target="_blank"&gt;Markdown&lt;/a&gt; est un langage de Markup. Par rapport au HTML, Markdown est plus léger et plus facile à écrire et à lire. Les langages de balisage permettent d'annoter votre texte à l'aide de balises, puis ces balises sont traitées et affichées sous forme de texte stylisé.&lt;/p&gt;
+&lt;p&gt;Voici un exemple rapide: vous souhaitez que votre texte soit en gras. Pour afficher le texte en gras, vous devez indiquer à votre éditeur de texte de l'afficher de cette façon. Pour ce faire, vous devrez écrire la phrase ornée de deux caractères de soulignement: &lt;code&gt;__Voici mon texte en gras__&lt;/code&gt; et vous obtiendrez: &lt;strong&gt;Voici mon texte en gras&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Où l'utilisons-nous?&lt;/h2&gt;
+&lt;p&gt;Markdown est plutôt cool puisqu'il crée des fichiers texte. Contrairement aux fichiers Word qui eux sont de type fichier binaires, les fichiers Markdown sont vraiment portable. Vous pouvez donc ouvrir les fichiers Markdown avec n'importe quel éditeur de texte et ce sans avoir à télécharger de logiciel supplémentaire.&lt;/p&gt;
+&lt;p&gt;J'utilise Markdown surtout pour prendre mes notes à l'université parce que c'est vraiment facile et rapide à utiliser. Si vous êtes un étudiant, peut-être que Markdown peut vous être utile! Sinon, il y a tellement d'autres façons de l'utiliser!&lt;/p&gt;
+&lt;p&gt;Par exemple, nous l'utilisons souvent pour écrire nos fichiers README pour des projets. Les outils de gestion de version en ligne tels que &lt;a href="http://gitlab.com" rel="nofollow" target="_blank"&gt;GitLab&lt;/a&gt; ou &lt;a href="http://github.com" rel="nofollow" target="_blank"&gt;GitHub&lt;/a&gt; offrent une vue formatée de ce langage de balisage ce qui le rend encore plus intéressant à utiliser.&lt;/p&gt;
+&lt;p&gt;Il existe aussi des outils tels que &lt;a href="http://middlemanapp.com" rel="nofollow" target="_blank"&gt;MiddleMan&lt;/a&gt; ou &lt;a href="http://jekyllrb.com" rel="nofollow" target="_blank"&gt;Jekyll&lt;/a&gt; qui vous permettent de créer un blog généré de manière statique à l'aide d'articles Markdown. Personnellement, j'utilise ce genre d'outil. D'ailleurs ce blog est en fait généré à l'aide de &lt;a href="http://docs.getpelican.com/en/stable/" rel="nofollow" target="_blank"&gt;Pelican&lt;/a&gt;. En gros, vous définissez les propriétés de votre site Web une fois, puis vous écrivez vos articles en Markdown et le générateur de blog statique créera des pages HTML avec vos articles et pages.&lt;/p&gt;
+&lt;p&gt;De plus, j'ai récemment découvert un outil intéressant. Vous pouvez télécharger une extension de navigateur appelée &lt;a href="http://markdown-here.com" rel="nofollow" target="_blank"&gt;Markdown here&lt;/a&gt;. Cette extension vous permet d'écrire des messages Markdown dans votre service de messagerie préféré et celle-ci stylisera vos messages pour vous.&lt;/p&gt;
+&lt;p&gt;Enfin, voici probablement ma façon préférée d'utiliser Markdown. Il existe un outil vraiment génial appelé &lt;a href="http://pandoc.org" rel="nofollow" target="_blank"&gt;pandoc&lt;/a&gt; et je l'aime! Cet outil peut passer d'un format de balisage à un autre. J'imagine que vous l'avez deviné, il convertit Markdown! Il est possible de convertir de Markdown à LaTeX, HTML, PDF, Word, etc. Les possibilités sont presque infinies. Avec l'aide de cet outil, j'ai réalisé de beaux projets comme, récemment, j'ai dû envoyer des lettres personnalisées à plus de 250 personnes. Pour ce faire, j'ai écrit une fois la lettre en Markdown, créé un script qui a remplacé les coordonnées des gens aux endroits réservés de cette lettre, puis, avec l'aide de pandoc, j'ai converti ces fichiers en un fichier PDF afin de les envoyer.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Alors maintenant, vous souhaitez essayer Markdown mais ne savez pas par où commencer. Il y a un moyen simple de l'essayer sans installer quoi que ce soit. Tout d'abord, regardez ma façon de l'utiliser, puis dirigez-vous vers &lt;a href="http://dillinger.io" rel="nofollow" target="_blank"&gt;Dillinger.io&lt;/a&gt;.  &lt;/p&gt;
+&lt;p&gt;J'utilise Markdown depuis un bon moment maintenant et je découvre de nouvelles façons je l'utiliser à tous les jours. Si vous avez appris de nouveaux trucs a propos de Markdown qui ne sont pas listé ci-haut, n'hésitez pas à les partager!&lt;/p&gt;
+&lt;h2&gt;Comment l'utiliser&lt;/h2&gt;
+&lt;p&gt;Voici un aide-mémoire Markdown en ligne. Si vous le souhaitez, vous pouvez également télécharger une version de cet aide-mémoire (créé avec pandoc!) en vous inscrivant à ma newsletter juste ici:  &lt;/p&gt;
+&lt;form action="//thetechwanderer.us16.list-manage.com/subscribe/post?u=f5d34732ac2950e036302d760&amp;amp;id=76dd81dbd5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate&gt;
+    &lt;div id="mc_embed_signup_scroll"&gt;
+    &lt;legend&gt;Obtient gratuitement ta feuille aide-mémoire Markdown&lt;/legend&gt;
+    &lt;div class="mui-textfield"&gt;
+    &lt;input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="adresse courriel" required&gt;
+    &lt;/div&gt;
+    &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;
+    &lt;input type="text" name="b_f5d34732ac2950e036302d760_76dd81dbd5" tabindex="-1" value=""&gt;
+    &lt;/div&gt;
+    &lt;div class="clear"&gt;&lt;input type="submit" value="soumettre" name="subscribe" id="mc-embedded-subscribe" class="mui-btn mui-btn--raised"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/form&gt;
+
+&lt;h4&gt;Vous souhaitez écrire des titres&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# C&amp;#39;est le titre 1 (le plus important)
+
+## C&amp;#39;est le titre 2
+
+...
+
+##### C&amp;#39;est le titre 5
+
+###### C&amp;#39;est le titre 6 (le moins important)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;h1&gt;C'est le titre 1 (le plus important)&lt;/h1&gt;
+&lt;h2&gt;C'est le titre 2&lt;/h2&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;h5&gt;C'est le titre 5&lt;/h5&gt;
+&lt;h6&gt;C'est le titre 6 (le moins important)&lt;/h6&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez mettre de l'accent&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;_italique_ ou * italique * et __gras__ ou ** gras ** et  
+*** italique et gras *** ou ___italique et gras___
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;italique&lt;/em&gt; ou * italique * et &lt;strong&gt;gras&lt;/strong&gt; ou &lt;strong&gt; gras &lt;/strong&gt; et&lt;br&gt;
+&lt;strong&gt;&lt;em&gt; italique et gras &lt;/em&gt;&lt;/strong&gt; ou &lt;strong&gt;&lt;em&gt;italique et gras&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez ajouter des liens&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;`
+[Le texte affiché](http://le_lien)&lt;/code&gt; `&lt;/p&gt;
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://thetechwanderer.com"&gt;Le texte affiché&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez ajouter un bloc de citation&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;gt; Ceci est mon
+&amp;gt; bloc de citation.
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ceci est mon
+bloc de citation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez créer des listes&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;- Mon article 1 non ordonné
+- Mon article 2 non ordonné
++ Mon article non ordonné 3
+* Mon article 4 non ordonné
+    * Mon article sous-désordonné 1
+
+
+1. Mon article ordonné 1
+2. Mon article ordonné 2
+3. Mon article ordonné 3
+    1. Mon article sous-ordonné 1
+    2. Mon article sous-ordonné 2
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Mon article 1 non ordonné&lt;/li&gt;
+&lt;li&gt;Mon article 2 non ordonné&lt;/li&gt;
+&lt;li&gt;Mon article non ordonné 3&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mon article 4 non ordonné&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mon article sous-désordonné 1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mon article ordonné 1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Mon article ordonné 2&lt;/li&gt;
+&lt;li&gt;Mon article ordonné 3&lt;ol&gt;
+&lt;li&gt;Mon article sous-ordonné 1&lt;/li&gt;
+&lt;li&gt;Mon article sous-ordonné 2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez ajouter une image&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;Texte&lt;/span&gt; &lt;span class="n"&gt;Alt&lt;/span&gt;&lt;span class="p"&gt;](&lt;/span&gt;&lt;span class="nl"&gt;http&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="c1"&gt;// image_url)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="/images/thetechwanderer_logo.svg"&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez créer des tables&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;En-tête 1 | En-tête 2
+--- | ---
+contenu 1 | contenu 2
+
+
+| En-tête 1 align droit | En-tête 2 alignent le centre |
+| -------------------: | : -------------------: |
+| cell align right right | centre d&amp;#39;alignement de cellules |
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;En-tête 1&lt;/th&gt;
+&lt;th&gt;En-tête 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;contenu 1&lt;/td&gt;
+&lt;td&gt;contenu 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="right"&gt;En-tête 1 align droit&lt;/th&gt;
+&lt;th align="center"&gt;En-tête 2 alignent le centre&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;cell align right right&lt;/td&gt;
+&lt;td align="center"&gt;centre d'alignement de cellules&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez ajouter un séparateur de ligne&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;---
+***
+___
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez ajouter un code&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;`code inline`
+
+```
+multiples lignes de code
+blocs de code
+(peut également être réalisé avec quatre espaces ou
+une tabulation au début du code)
+```
+
+```python
+def my_fun ():
+    language = &amp;quot;Vous pouvez également spécifier un langage pour avoir la coloration syntaxique.&amp;quot;
+```
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;code inline&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;multiples lignes de code
+blocs de code
+(peut également être réalisé avec quatre espaces ou
+une tabulation au début du code)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;my_fun&lt;/span&gt; &lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;language&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;Vous pouvez également spécifier un langage pour avoir la coloration syntaxique.&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</content><category term="Markdown"></category><category term="pandoc"></category><category term="langage de balisage"></category><category term="générateur de site statique"></category><category term="outil"></category><category term="HTML"></category></entry></feed>

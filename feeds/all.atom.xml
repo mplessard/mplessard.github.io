@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Tech Wanderer</title><link href="https://mplessard.github.io/" rel="alternate"></link><link href="https://mplessard.github.io/feeds/all.atom.xml" rel="self"></link><id>https://mplessard.github.io/</id><updated>2017-09-17T00:00:00-04:00</updated><entry><title>Why you should start using a password manager right now</title><link href="https://mplessard.github.io/why-you-should-start-using-a-password-manager-right-now" rel="alternate"></link><published>2017-09-17T00:00:00-04:00</published><updated>2017-09-17T00:00:00-04:00</updated><author><name>Marie</name></author><id>tag:mplessard.github.io,2017-09-17:/why-you-should-start-using-a-password-manager-right-now</id><summary type="html">&lt;p&gt;Did you ever forget your password? Do you have difficulties juggling between different passwords? Or maybe you are the kind of person who writes her passwords on sticky notes or in a plain text file …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Did you ever forget your password? Do you have difficulties juggling between different passwords? Or maybe you are the kind of person who writes her passwords on sticky notes or in a plain text file?  &lt;/p&gt;
+&lt;p&gt;My friend, if you do not know what a password manager is today, you have got to read this and start using one right now.  &lt;/p&gt;
+&lt;h2&gt;What is it&lt;/h2&gt;
+&lt;p&gt;Basically, a password manager helps you manage your passwords. Yes, it is as simple as this! You &lt;strong&gt;choose one super strong quality password&lt;/strong&gt; that you will remember and then you do not have to worry about remembering all your other passwords. A password manager is a database encrypted with your super password. Password managers make it simple to have strong and different passwords because they are &lt;strong&gt;stored in one single place&lt;/strong&gt; and protected by your super strong quality password.  &lt;/p&gt;
+&lt;p&gt;Apart from getting your passwords from your password manager, another really cool feature is that &lt;strong&gt;it can generate strong passwords&lt;/strong&gt; for you, so you do not have to think about creating your own quality password anymore. And do not worry, you do not have to remember your generated passwords since your password manager does it for you.  &lt;/p&gt;
+&lt;p&gt;Password managers are &lt;strong&gt;time saving tools&lt;/strong&gt; and &lt;strong&gt;a must have&lt;/strong&gt; if you own more than one account.  &lt;/p&gt;
+&lt;h2&gt;Good practices when creating password&lt;/h2&gt;
+&lt;p&gt;It will come a time that you will need to choose your strong quality password. Even if you should, you might not want to use a password manager today. So here are three things to remember while choosing a password:&lt;br&gt;
+1. &lt;strong&gt;Use a different password for each account.&lt;/strong&gt;&lt;br&gt;
+    Imagine you are using the same password everywhere, then an application you are using has a security leak, or maybe you have been caught by phishing emails… Your email and password has been discovered. By the time you notice it, it might be too late for your accounts. It is easy for a hacker to try that information on several other application accounts. You might avoid this by using different passwords everywhere.
+2. &lt;strong&gt;Use different patterns for each password.&lt;/strong&gt;&lt;br&gt;
+    If you use the same pattern everywhere for example &lt;code&gt;2017facebook.com&lt;/code&gt; for your Facebook account and &lt;code&gt;2017twitter.com&lt;/code&gt; for your twitter account, it makes it easier to be brute-forced. Because a hacker that finds out one of your passwords could try to guess websites you are using and try your pattern on those websites. For example, he could guess that your PayPal account password is &lt;code&gt;2017paypal.com&lt;/code&gt; and he could try it with several years and top-level domains.
+3. &lt;strong&gt;Use as many different types of characters that you are allowed to.&lt;/strong&gt;&lt;br&gt;
+    - Lowercase
+    - Uppercase
+    - Numbers
+    - Special characters such as &lt;code&gt;{}&amp;lt;&amp;gt;[]()=-+/*&amp;amp;?%$/"! ':;&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;Which password manager am I using?&lt;/h2&gt;
+&lt;p&gt;I do not think that my password manager is the greatest absolute solution, in fact I am thinking of changing it. I use &lt;a href="https://spideroak.com/encryptr/" rel="nofollow" target="_blank"&gt;Encryptr&lt;/a&gt; and I do not recommend it because the project does not seem to be maintained anymore and it should have some more features. Although, I like it because it is an open source cloud multi-platform application and it is a great first experience for managing your passwords.  &lt;/p&gt;
+&lt;p&gt;I have also tried &lt;a href="http://keepass.info" rel="nofollow" target="_blank"&gt;KeePass&lt;/a&gt; and I think it is a nice and complete open source software. My negative point: the interface is a little old. Also, in comparison to Encryptr, KeePass is not a cloud application. That means that your data are stored on your computer and if you want to access your password everywhere you have to save your database to your favorite cloud application like &lt;a href="http://drive.google.com" rel="nofollow" target="_blank"&gt;Google Drive&lt;/a&gt;, &lt;a href="http://dropbox.com" rel="nofollow" target="_blank"&gt;DropBox&lt;/a&gt; or even &lt;a href="http://github.com" rel="nofollow" target="_blank"&gt;GitHub&lt;/a&gt;. If you use that method, don’t forget to sync your database every time you make a change!  &lt;/p&gt;
+&lt;p&gt;Other than that, there is &lt;a href="https://www.passwordstore.org/" rel="nofollow" target="_blank"&gt;GNU Pass&lt;/a&gt; another open source password manager that is mainly used with Command Line Interface. I am thinking of trying this one soon but since it is also a non-cloud-based application, I have to figure out first how I want to get my password everywhere with me.&lt;/p&gt;
+&lt;p&gt;There are so many more alternative to choose a password manager, &lt;a href="https://1password.com/" rel="nofollow" target="_blank"&gt;1Password&lt;/a&gt;, &lt;a href="https://www.lastpass.com/"&gt;LastPass&lt;/a&gt;, &lt;a href="https://www.dashlane.com/" rel="nofollow" target="_blank"&gt;Dashlane&lt;/a&gt;, … My advice to you is to do your research. Password managers are not immune to vulnerabilities and having a cloud-based password manager can be dangerous. It can be even more dangerous if you do not know what the application is doing with your data.  &lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;I hope that if you were not using a password manager yesterday, you are going to get one today. Please toss those sticky notes away and be serious about your online security.   &lt;/p&gt;
+&lt;p&gt;For those of you who already use a password manager, I am really proud of you! Are you using one I have talked about? If not let me know which one you use!&lt;/p&gt;</content><category term="tips"></category><category term="password manager"></category><category term="password"></category><category term="security"></category><category term="accounts"></category></entry><entry><title>Pourquoi vous devriez utiliser un gestionnaire de mot de passe maintenant</title><link href="https://mplessard.github.io/fr/why-you-should-start-using-a-password-manager-right-now" rel="alternate"></link><published>2017-09-17T00:00:00-04:00</published><updated>2017-09-17T00:00:00-04:00</updated><author><name>Marie</name></author><id>tag:mplessard.github.io,2017-09-17:/fr/why-you-should-start-using-a-password-manager-right-now</id><summary type="html">&lt;p&gt;Avez-vous déjà oublié votre mot de passe? Avez-vous des difficultés à jongler entre vos différents mots de passe? Ou peut-être êtes-vous le type de personne qui écrit ses mots de passe sur des Post-its ou …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Avez-vous déjà oublié votre mot de passe? Avez-vous des difficultés à jongler entre vos différents mots de passe? Ou peut-être êtes-vous le type de personne qui écrit ses mots de passe sur des Post-its ou dans un fichier texte?  &lt;/p&gt;
+&lt;p&gt;Mes amis, si vous ne savez pas ce qu'est un gestionnaire de mot de passe aujourd'hui, vous devez lire cet article et commencer à en utiliser un maintenant.  &lt;/p&gt;
+&lt;h2&gt;Qu'est-ce que c'est&lt;/h2&gt;
+&lt;p&gt;En gros, un gestionnaire de mot de passe vous aide à gérer vos mots de passe. Oui, c'est aussi simple que ça! Vous &lt;strong&gt;choisissez un mot de passe de qualité super fort&lt;/strong&gt; que vous vous souviendrez et vous n'avez plus a vous soucier de vous souvenir de tous vos autres mots de passe. Un gestionnaire de mot de passe est une base de données chiffrée avec votre super mot de passe. Les gestionnaires de mot de passe rendent simple le fait d'avoir des mots de passe forts et différents parce qu'ils sont &lt;strong&gt;conservés dans un seul endroit&lt;/strong&gt; et &lt;strong&gt;protégés&lt;/strong&gt; par votre mot de passe de qualité super fort.  &lt;/p&gt;
+&lt;p&gt;En plus d'obtenir vos mots de passe de la part de votre gestionnaire de mot de passe, une autre fonctionnalité vraiment cool est qu'&lt;strong&gt;il peut générer des mots de passe robustes&lt;/strong&gt; pour vous, donc vous n'avez plus à penser à créer vos propres mots de passe de qualité. Et ne vous inquiétez pas, vous n'avez pas à vous souvenir de vos mots de passe générés puisque votre gestionnaire de mot de passe le fait pour vous.  &lt;/p&gt;
+&lt;p&gt;Les gestionnaires de mot de passe sont des outils qui vous permettent d'&lt;strong&gt;économiser du temps&lt;/strong&gt; et doit être &lt;strong&gt;la chose à avoir&lt;/strong&gt; si vous possédez plus d'un compte.  &lt;/p&gt;
+&lt;h2&gt;Les meilleures pratiques lors de la création d'un mot de passe&lt;/h2&gt;
+&lt;p&gt;Il viendra un moment où vous devrez choisir votre mot de passe de qualité. Même si vous devriez, vous ne voudrez peut-être pas utiliser un gestionnaire de mot de passe aujourd'hui. Voici donc trois choses à retenir lorsque l'on choisit un mot de passe:  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Utilisez un mot de passe différent pour chaque compte.&lt;/strong&gt;&lt;br&gt;
+    Imaginez que vous utilisez le même mot de passe partout, puis une application que vous utilisez a une fuite de sécurit ou peut-être que vous vous êtes fait prendre par des courriels de phishing... Votre courriel et votre mot de passe ont été découverts. Au moment où vous le remarquez, il pourrait être trop tard pour vos comptes. Il est facile pour un pirate informatique d'essayer cette information sur plusieurs autres comptes applicatifs. Vous pouvez éviter cela en utilisant différents mots de passe partout.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Utilisez différents motifs pour chaque mot de passe.&lt;/strong&gt;&lt;br&gt;
+    Si vous utilisez le même motif de mot de passe partout, par exemple &lt;code&gt;2017facebook.com&lt;/code&gt; pour votre compte Facebook et&lt;code&gt;2017twitter.com&lt;/code&gt; pour votre compte Twitter, il est plus facile d'attaquer par force brute vos comptes. Un pirate informatique qui découvre l'un de vos mots de passe pourrait essayer de deviner les sites Web que vous utilisez et essayer votre modèle sur ces sites. Par exemple, il pourrait deviner que votre mot de passe de compte PayPal est &lt;code&gt;2017paypal.com&lt;/code&gt; et il pourrait l'essayer avec plusieurs années et domaines de premier niveau.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Utilisez autant de types de caractères que vous êtes autorisé à utiliser.&lt;/strong&gt;  &lt;ul&gt;
+&lt;li&gt;Minuscules&lt;/li&gt;
+&lt;li&gt;Majuscules&lt;/li&gt;
+&lt;li&gt;Nombres&lt;/li&gt;
+&lt;li&gt;Caractères spéciaux comme: &lt;code&gt;{}&amp;lt;&amp;gt;[]()=-+/*&amp;amp;?%$/"! ':;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Quel est mon gestionnaire de mot de passe?&lt;/h2&gt;
+&lt;p&gt;Je ne crois pas que mon gestionnaire de mot de passe soit la meilleure solution, en fait, je pense à la modifier. J'utilise &lt;a href="https://spideroak.com/encryptr/" rel="nofollow" target="_blank"&gt;Encryptr&lt;/a&gt;. Bien que je l'aime parce qu'il s'agit d'une application nuagique multi-plate-forme libre et c'est une excellente première expérience pour la gestion de vos mots de passe. Je ne la recommande pas parce que le projet ne semble plus être maintenu et qu'il devrait avoir d'autres fonctionnalités.  &lt;/p&gt;
+&lt;p&gt;J'ai également essayé &lt;a href="http://keepass.info" rel="nofollow" target="_blank"&gt;KeePass&lt;/a&gt; et je pense que c'est un logiciel libre agréable et complet. Mon point négatif: l'interface est un peu ancienne. De plus, par rapport à Encryptr, KeePass n'est pas une application nuagique. Cela signifie que vos données sont stockées sur votre ordinateur et si vous souhaitez accéder à votre mot de passe partout où vous voulez, vous devez enregistrer votre base de données sur votre application nuagique préférée comme &lt;a href="http://drive.google.com" rel="nofollow" target="_blank"&gt;Google Drive&lt;/a&gt;, &lt;a href="http://dropbox.com" rel="nofollow" target="_blank"&gt;DropBox&lt;/a&gt; ou même &lt;a href="http://github.com" rel="nofollow" target="_blank"&gt;GitHub&lt;/a&gt;. Si vous utilisez cette méthode, n'oubliez pas de synchroniser votre base de données chaque fois que vous faites un changement!  &lt;/p&gt;
+&lt;p&gt;En plus de ça, il existe &lt;a href="https://www.passwordstore.org/" rel="nofollow" target="_blank"&gt;GNU Pass&lt;/a&gt; un autre gestionnaire de mot de passe open source qui est principalement utilisé avec l'interface en ligne de commande. Je pense à essayer celui-ci bientôt, mais puisqu'il s'agit également d'une application non basée dans le nuage, je dois d'abord voir comment avoir mes mots de passe partout avec moi de façon sécuritaire.  &lt;/p&gt;
+&lt;p&gt;Il existe tellement d'autres alternatives pour choisir un gestionnaire de mot de passe. Il y a &lt;a href="https://1password.com/" rel="nofollow" target="_blank"&gt;1Password&lt;/a&gt;, &lt;a href="https://www.lastpass.com/" rel="nofollow" target="_blank"&gt;LastPass&lt;/a&gt;, &lt;a href="https: // www.dashlane.com/" rel="nofollow" target="_blank"&gt;Dashlane&lt;/a&gt;, ... Mon conseil est de faire vos recherches. Les gestionnaires de mot de passe ne sont pas à l'abri des vulnérabilités et un gestionnaire de mot de passe basé dans le nuage peut être dangereux. Cela peut être encore plus dangereux si vous ne savez pas ce que l'application fait avec vos données.  &lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;J'espère que si vous n'utilisez pas un gestionnaire de mot de passe hier, vous en utiliserez un aujourd'hui. S'il vous plaît, laissez les Post-its loin de vos mots de passe et soyez sérieux à propos de votre sécurité en ligne.  &lt;/p&gt;
+&lt;p&gt;Pour ceux d'entre vous qui utilisent déjà un gestionnaire de mot de passe, je suis vraiment fier de vous! En utilisez-vous un dont j'ai parlé plus haut? Sinon, faites-moi savoir lequel vous utilisez!&lt;/p&gt;</content><category term="conseils"></category><category term="gestionnaire de mot de passe"></category><category term="mot de passe"></category><category term="sécurité"></category><category term="comptes"></category></entry><entry><title>How to make your Instagram photos pop?</title><link href="https://mplessard.github.io/how-to-make-your-Instagram-photos-pop" rel="alternate"></link><published>2017-09-13T00:00:00-04:00</published><updated>2017-09-13T00:00:00-04:00</updated><author><name>Marie</name></author><id>tag:mplessard.github.io,2017-09-13:/how-to-make-your-Instagram-photos-pop</id><summary type="html">&lt;p&gt;Recently, I have been complimented on my Instagram photos and people asked me to give them tips. I have to say that there is not one way to create nice pictures, but here is mine …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Recently, I have been complimented on my Instagram photos and people asked me to give them tips. I have to say that there is not one way to create nice pictures, but here is mine and it seems to be working for me! Just remember to be inspired, have fun and find the formula that is fitting you and be consistent in your style.  &lt;/p&gt;
+&lt;h2&gt;Composition&lt;/h2&gt;
+&lt;p&gt;You might ask yourself: what is composition? Well, composition is, in fact, the art of organizing your picture's elements. It is all about playing with your props. For example, you could decide to put only one element in the middle of your photo and that is it or maybe you would add small objects all around the main element to create a symmetrical image.  &lt;/p&gt;
+&lt;p&gt;Even if composition is all about playing, there are few great principles. One of them is the rule of thirds and it is quite simple to use it with Instagram or your cellphone's camera. Normally, when you edit your image on Instagram, you can already see those nine little squares. If you want it to appear on your cellphone, go to your camera's settings and enable the grid option.  &lt;/p&gt;
+&lt;p&gt;This principle divides your photo into nine squares, two horizontal lines and 2 vertical lines. Those lines and intersections are to be remembered. They allow you to create different eye-catching compositions. You just have to select an intersection or a line to follow and your Instagram image is ready to go!  &lt;/p&gt;
+&lt;p&gt;If I don't create symmetrical images, I often use the rule of thirds to balance my image composition. For instance, I like to play with 1 third of something and 2 thirds of something else. Let's see this image below... There's one third of grass and 2 thirds of the sky.  &lt;/p&gt;
+&lt;blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"&gt;&lt;div style="padding:8px;"&gt; &lt;div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;"&gt; &lt;div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"&gt;&lt;a href="https://www.instagram.com/p/BPIFbtYAOjP/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank"&gt;Une publication partagée par MARIE (@_mplessard)&lt;/a&gt; le &lt;time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-01-11T13:48:33+00:00"&gt;11 Janv. 2017 à 5h48 PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+
+&lt;script async defer src="//platform.instagram.com/en_US/embeds.js"&gt;&lt;/script&gt;
+
+&lt;p&gt;Seriously, composition might be one of the most difficult things to get right, but once you get it, it is hard to let it go! My tips to you, just try over and over again.   &lt;/p&gt;
+&lt;h2&gt;Light&lt;/h2&gt;
+&lt;p&gt;The second thing that is really important with photography is getting the right lighting and one in particular. That would be &lt;strong&gt;daylight&lt;/strong&gt;!  &lt;/p&gt;
+&lt;p&gt;Nothing is better for your Instagram photos to show some natural light. It is yours to decide when daylight is at his best in your home or apartment because you know, it depends on the orientation of your windows and the position of the sun.  &lt;/p&gt;
+&lt;p&gt;Something that is really helpful with the light is having some bright and light-colored background, those reflect much more light than dark colors. I don't do this personally at the moment, but I have seen tips where people buy cardboard and use them as background maybe you should give it a try if your table or floor is dark.  &lt;/p&gt;
+&lt;p&gt;I don't know for you, but I find it difficult to like a picture when there's a lot of shading in it. Let's face it, light makes us happy and allows us to see those nice details! This tip is kind of easy to achieve in comparison to the composition tip. So give it a try!  &lt;/p&gt;
+&lt;h2&gt;Colors and textures&lt;/h2&gt;
+&lt;p&gt;Another thing to play with is the balance between colors and textures. You have got to match them! You might want to put little of one color or maybe a lot of mix and match and that's OK. The only thing to remember is where do you want the focus to be?&lt;/p&gt;
+&lt;p&gt;There should be a contrast between elements because you know you don't want your main element to disappear into everything. For me, if I am shooting objects, I find it easier to choose a smooth bright background and add my elements in front of it with every sparkle it has. This means that I don't use a background color similar to the objects. For example, look at this matcha latte. The background gently smooths with the matcha latte but still, the matcha is at the center of your attention with his bright green color and the outline of the glass.&lt;/p&gt;
+&lt;blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"&gt;&lt;div style="padding:8px;"&gt; &lt;div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"&gt; &lt;div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"&gt;&lt;a href="https://www.instagram.com/p/BYI8-ZxggJF/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank"&gt;Une publication partagée par MARIE (@_mplessard)&lt;/a&gt; le &lt;time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-08-23T14:36:26+00:00"&gt;23 Août 2017 à 7h36 PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+
+&lt;script async defer src="//platform.instagram.com/en_US/embeds.js"&gt;&lt;/script&gt;
+
+&lt;p&gt;Let's remember that even if I want my object to pop out of the background, I also want the background to match the feeling or theme of the picture.&lt;/p&gt;
+&lt;h2&gt;Filters and modifications&lt;/h2&gt;
+&lt;p&gt;And the killer question! Do you modify and add filters to your photo? Indeed I do, I only use Instagram's features but yes! Most of the time, I don't apply modifications, I only reposition my image and add a simple but elegant filter.&lt;/p&gt;
+&lt;p&gt;I think that it is OK to add filters, but you have to choose some that are classy, not too flashy otherwise, it's not really natural. If you would like to know, I mostly use gingham filter. It's my favorite!&lt;/p&gt;
+&lt;p&gt;Also, adding filters kind of give a style to your picture. Be sure to only select two or three filters that you are going to use all the time. People who like your Instagram profile will be more likely to comeback or follow you if your gallery style is consistent. And note that this does not only apply to filters!&lt;/p&gt;
+&lt;h2&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;Now, if you would like to get a nice Instagram gallery, I recommend you to get inspired! Yes, open your Instagram, find pictures that you would like to have in your own gallery and analyze the composition, textures, colors and filters that you see. Try to apply some of those things to your own pictures and after few tries, I am sure you will get it! But remember this, you don't have to do everything like everyone because innovation is not about being like everyone. Don't be afraid to try new things and get experience.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;I hope that this article will help you! Because who does not want to get more likes on their pictures? I would love to see your progress on Instagram so feel free to show me your before and after images.&lt;/p&gt;</content><category term="Instagram"></category><category term="photo"></category><category term="tips"></category><category term="social media"></category></entry><entry><title>Comment créer des images Instagram qui ressortent?</title><link href="https://mplessard.github.io/fr/how-to-make-your-Instagram-photos-pop" rel="alternate"></link><published>2017-09-13T00:00:00-04:00</published><updated>2017-09-13T00:00:00-04:00</updated><author><name>Marie</name></author><id>tag:mplessard.github.io,2017-09-13:/fr/how-to-make-your-Instagram-photos-pop</id><summary type="html">&lt;p&gt;Récemment, j'ai été complimenté sur mes photos Instagram et les gens m'ont demandé de leur donner des conseils. Je dois dire qu'il n'y a pas un seul moyen de créer de belles photos, mais voilà …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Récemment, j'ai été complimenté sur mes photos Instagram et les gens m'ont demandé de leur donner des conseils. Je dois dire qu'il n'y a pas un seul moyen de créer de belles photos, mais voilà ma façon et ça me semble fonctionner! N'oubliez pas de rester inspiré, de vous amuser, de trouver la formule qui vous convient et d'être cohérent dans votre style.&lt;/p&gt;
+&lt;h2&gt;Composition&lt;/h2&gt;
+&lt;p&gt;Vous devez vous demander: mais qu'est-ce qu'est la composition? Bien, la composition est l'art d'organiser les éléments de votre image. Il s'agit, en fait, de jouer avec les objets de votre photo. Par exemple, vous pouvez décider de mettre un seul élément au milieu de votre photo et c'est tout ou vous pouvez ajouter de petits objets autour de l'élément principal pour créer une image symétrique.  &lt;/p&gt;
+&lt;p&gt;Même si la composition consiste à jouer avec les éléments, il y a quelques grands principes. L'un d'eux est la règle des tiers. Il est assez simple de l'utiliser avec Instagram ou l'appareil photo de votre téléphone cellulaire. Normalement, lorsque vous éditez vos images sur Instagram, vous pouvez déjà voir ces neuf petits carrés. Si vous voulez qu'ils apparaissent sur votre téléphone intelligent, accédez aux paramètres de votre caméra et activez l'option grille.  &lt;/p&gt;
+&lt;p&gt;Ce principe divise votre photo en neuf carrés soit, deux lignes horizontales et 2 lignes verticales. Ces lignes et ces intersections sont des éléments qui doivent être retenus. Ils vous permettent de créer différentes compositions accrocheuses. Il suffit de sélectionner une intersection ou une ligne à suivre et votre image Instagram est prête à être publiée!  &lt;/p&gt;
+&lt;p&gt;Si je ne crée pas d'images symétriques, j'utilise souvent la règle des tiers pour équilibrer la composition de mon image. Par exemple, j'aime jouer avec un tiers d'une chose et 2 tiers d'une autre. Regardons l'image ci-dessous ... On peut remarquer un tiers d'herbe et 2 tiers de ciel.  &lt;/p&gt;
+&lt;blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"&gt;&lt;div style="padding:8px;"&gt; &lt;div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;"&gt; &lt;div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"&gt;&lt;a href="https://www.instagram.com/p/BPIFbtYAOjP/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank"&gt;Une publication partagée par MARIE (@_mplessard)&lt;/a&gt; le &lt;time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-01-11T13:48:33+00:00"&gt;11 Janv. 2017 à 5h48 PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+
+&lt;script async defer src="//platform.instagram.com/en_US/embeds.js"&gt;&lt;/script&gt;
+
+&lt;p&gt;Sérieusement, la composition pourrait être l'une des choses les plus difficiles à maîtriser, mais une fois que vous avez compris, il est difficile de ne plus l'utiliser! Mon conseil, essayez encore et encore, car on y arrive rarement du premier coup!  &lt;/p&gt;
+&lt;h2&gt;Lumière&lt;/h2&gt;
+&lt;p&gt;La deuxième chose qui est vraiment importante en photographie, est d'avoir un bon éclairage et un en particulier. Ça se doit d'être &lt;strong&gt;la lumière du jour&lt;/strong&gt;!  &lt;/p&gt;
+&lt;p&gt;Rien n'est mieux pour vos photos Instagram que d'utiliser la lumière naturelle. C'est à vous de décider quand la lumière du jour est à son meilleur dans votre maison ou appartement, car vous le savez, cela dépend de l'orientation de vos fenêtres et de la position du soleil.  &lt;/p&gt;
+&lt;p&gt;Une chose qui est vraiment utile de savoir avec la lumière, c'est d'avoir un fond lumineux et de couleur claire, car ce genre de couleur reflète beaucoup plus la lumière que les couleurs sombres. Je ne le fais pas personnellement pour le moment, mais j'ai vu des conseils où les gens achètent des cartons et les utilisent en arrière-plan. Vous devriez peut-être essayer si votre table ou votre plancher est sombre.  &lt;/p&gt;
+&lt;p&gt;Je ne sais pas pour vous, mais moi, j'ai du mal à aimer une image quand il y a beaucoup d'ombre. Soyons réalistes, la lumière nous rend heureux et nous permet de voir de beaux détails! Ce conseil en lien avec la lumière est plutôt facile à réaliser par rapport à celui de la composition. Essayez-le donc!  &lt;/p&gt;
+&lt;h2&gt;Les couleurs et les textures&lt;/h2&gt;
+&lt;p&gt;Une autre chose à essayer est de jouer avec l'équilibre des couleurs et textures. Mais rappelez-vous, vous devez les faire correspondre! Vous voudrez peut-être mettre un petit peu d'une couleur ou peut-être beaucoup de combinaisons et c'est OK. La seule chose à retenir est de savoir où vous voulez que l'attention soit concentrée.  &lt;/p&gt;
+&lt;p&gt;Il devrait y avoir du contraste entre les éléments parce que vous le savez, vous ne voulez pas que votre élément principal disparaisse dans l'arrière-plan. Dans mon cas, si je photographie des objets, je trouve qu'il est plus facile de choisir un fond clair et doux et d'ajouter mes éléments plus vivants sur le dessus. Cela signifie que je n'utilise pas de couleur de fond semblable aux objets. Par exemple, si nous regardons l'image suivante de matcha latte, le fond a une belle homogénéité avec celui-ci, mais nous pouvons remarquer que le matcha est au centre de notre attention avec sa couleur verte vivifiante et le contour du verre.  &lt;/p&gt;
+&lt;blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"&gt;&lt;div style="padding:8px;"&gt; &lt;div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"&gt; &lt;div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"&gt;&lt;a href="https://www.instagram.com/p/BYI8-ZxggJF/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank"&gt;Une publication partagée par MARIE (@_mplessard)&lt;/a&gt; le &lt;time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-08-23T14:36:26+00:00"&gt;23 Août 2017 à 7h36 PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+
+&lt;script async defer src="//platform.instagram.com/en_US/embeds.js"&gt;&lt;/script&gt;
+
+&lt;p&gt;Rappelons-nous que, même si je souhaite que mon objet principal se démarque de l'arrière-plan, je veux aussi que le fond corresponde au sentiment ou au thème que dégage l'image.  &lt;/p&gt;
+&lt;h2&gt;Les filtres et les modifications&lt;/h2&gt;
+&lt;p&gt;Et la question qui tue! Est-ce que je modifie et ajoute des filtres à mes photos? En effet, j’utilise les fonctionnalités d'Instagram! La plupart du temps, je n'applique pas vraiment de modifications, je ne fais que repositionner mon image et j'ajoute un filtre simple, mais élégant.&lt;/p&gt;
+&lt;p&gt;Je pense qu'il est correct d'ajouter des filtres, mais il faut choisir ceux qui sont classiques et ceux qui ne se remarquent pas trop sinon, ça ne fait pas vraiment naturel. Si vous souhaitez le savoir, j'utilise surtout le filtre gingham. C'est mon préféré!&lt;/p&gt;
+&lt;p&gt;De plus, ajouter des filtres donne un style à votre image. Veillez cependant à ne sélectionner que deux ou trois filtres que vous utiliserez tout le temps. Les personnes qui aiment votre profil Instagram seront plus susceptibles de revenir ou de vous suivre si votre style de galerie est cohérent. Et notez que cela ne s'applique pas seulement qu'aux filtres!  &lt;/p&gt;
+&lt;h2&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;Maintenant, si vous souhaitez obtenir une belle galerie Instagram, je vous recommande de vous inspirer! Oui, ouvrez votre Instagram, trouvez des images que vous souhaitez avoir dans votre propre galerie et analysez la composition, les textures, les couleurs et les filtres que vous voyez. Essayez d'appliquer certaines de ces choses à vos propres images et après quelques essais, je suis sûr que vous obtiendrez le résultat souhaité! Mais n'oubliez pas, vous n'avez pas à faire tout comme tout le monde parce que l'innovation ne consiste pas en ça. N'ayez pas peur d'essayer de nouvelles choses et d'aller chercher de l'expérience.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;J'espère que cet article pourra vous aider! Car qui ne souhaite pas avoir plus de j'aime sur ses photos? J'aimerais bien voir vos progrès sur Instagram, alors n'hésitez surtout pas à me montrer vos images avant et maintenant.&lt;/p&gt;</content><category term="Instagram"></category><category term="image"></category><category term="conseils"></category><category term="médias sociaux"></category></entry><entry><title>Why you should start using Markdown today</title><link href="https://mplessard.github.io/why-you-should-start-using-Markdown-today" rel="alternate"></link><published>2017-09-03T00:00:00-04:00</published><updated>2017-09-03T00:00:00-04:00</updated><author><name>Marie</name></author><id>tag:mplessard.github.io,2017-09-03:/why-you-should-start-using-Markdown-today</id><summary type="html">&lt;h2&gt;What is Markdown?&lt;/h2&gt;
+&lt;p&gt;Like HTML, &lt;a href="https://en.wikipedia.org/wiki/Markdown" rel="nofollow" target="_blank"&gt;Markdown&lt;/a&gt; is a Markup language. In comparison to HTML, Markdown is lighter and easier to write and read. Markup languages allow you to annotate your text using tags, then those …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;What is Markdown?&lt;/h2&gt;
+&lt;p&gt;Like HTML, &lt;a href="https://en.wikipedia.org/wiki/Markdown" rel="nofollow" target="_blank"&gt;Markdown&lt;/a&gt; is a Markup language. In comparison to HTML, Markdown is lighter and easier to write and read. Markup languages allow you to annotate your text using tags, then those tags are processed and displayed as styled text.  &lt;/p&gt;
+&lt;p&gt;Here is a quick example: You would like some bold text. In order to display bold text, you have to tell your text editor to display it this way. To do so, you will have to write the sentence decorated with double underscores: &lt;code&gt;__Here is my bold text__&lt;/code&gt; and you will get: &lt;strong&gt;Here is my bold text&lt;/strong&gt;.  &lt;/p&gt;
+&lt;h2&gt;Where do we use it?&lt;/h2&gt;
+&lt;p&gt;Markdown is pretty cool since it creates text files making it portable unlike those binary file such as Microsoft Word. This means that you can open Markdown files with any text editor and have nothing to download in order for your computer to read it.  &lt;/p&gt;
+&lt;p&gt;I mostly use Markdown to take notes at school because it's really easy and quick to use. So, if you are a student, Markdown might be usefull for you too! Aside from that, there are so many more ways to use it!&lt;/p&gt;
+&lt;p&gt;For example, we often use it to write our README files in projects. Web-based versioning tools like &lt;a href="http://gitlab.com" rel="nofollow" target="_blank"&gt;GitLab&lt;/a&gt; or &lt;a href="http://github.com" rel="nofollow" target="_blank"&gt;GitHub&lt;/a&gt; offers a formatted view of this Markup language so that makes it much more interesting to use it.  &lt;/p&gt;
+&lt;p&gt;There are also some tools like &lt;a href="http://middlemanapp.com" rel="nofollow" target="_blank"&gt;MiddleMan&lt;/a&gt; or &lt;a href="http://jekyllrb.com" rel="nofollow" target="_blank"&gt;Jekyll&lt;/a&gt; that allows you to create a static generated blog with Markdown posts. I personally use &lt;a href="http://docs.getpelican.com/en/stable/" rel="nofollow" target="_blank"&gt;Pelican&lt;/a&gt; for this blog. Basically, you set your website properties once, then you write your Markdown articles and the static blog generator will create HTML pages with your articles and pages.  &lt;/p&gt;
+&lt;p&gt;Plus, this is something I have recently discovered and it's awesome. It is possible to download a browser extension named &lt;a href="http://markdown-here.com" rel="nofollow" target="_blank"&gt;Markdown here&lt;/a&gt; and it lets you write Markdown messages with your email service and then styles it for you.&lt;/p&gt;
+&lt;p&gt;Finally, this is probably my favorite way to use Markdown. There's this really great tool named &lt;a href="http://pandoc.org" rel="nofollow" target="_blank"&gt;pandoc&lt;/a&gt; and I love it! This tool can convert from one markup format to another one. I think you've guessed it! It does convert Markdown. You can convert from Markdown to LaTeX, HTML, PDF, Word, etc. The possibilities are almost endless. With the help of this tool I have achieved nice things like, recently, I had to send personalized letters to over 250 people. In order to do this, I wrote the letter in Markdown one time, created a script that replaced a placeholder by the name and address of a person and then, with pandoc, converted it to a PDF file to finally send it.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;So now you would like to try Markdown but don't know where to start. There's a simple way to try it without installing anything. First, have a look at my how to use it and then head to &lt;a href="http://dillinger.io" rel="nofollow" target="_blank"&gt;Dillinger.io&lt;/a&gt;.  &lt;/p&gt;
+&lt;p&gt;I've been using Markdown for quite a while now and I'm discovering many new ways to use it everyday. If you've learn new tips about it that are not list up here, don't be shy to share them in the comment!&lt;/p&gt;
+&lt;h2&gt;How to use it&lt;/h2&gt;
+&lt;p&gt;Here is an online Markdown cheat sheet. If you'd like, you can also download a version of my cheat sheet (created with pandoc!) by registering to my newsletter right here:&lt;/p&gt;
+&lt;form action="//thetechwanderer.us16.list-manage.com/subscribe/post?u=f5d34732ac2950e036302d760&amp;amp;id=76dd81dbd5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate&gt;
+    &lt;div id="mc_embed_signup_scroll"&gt;
+    &lt;legend&gt;Get your free Markdown cheat sheet&lt;/legend&gt;
+    &lt;div class="mui-textfield"&gt;
+    &lt;input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required&gt;
+    &lt;/div&gt;
+    &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;
+    &lt;input type="text" name="b_f5d34732ac2950e036302d760_76dd81dbd5" tabindex="-1" value=""&gt;
+    &lt;/div&gt;
+    &lt;div class="clear"&gt;&lt;input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="mui-btn mui-btn--raised"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/form&gt;
+
+&lt;h4&gt;You'd like to write headers&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# This is heading 1 (the most important one)
+
+## This is heading 2
+
+...
+
+##### This is headding 5
+
+###### This is headding 6 (the less important one)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Here's the representation&lt;/h4&gt;
+&lt;h1&gt;This is heading 1 (the most important one)&lt;/h1&gt;
+&lt;h2&gt;This is heading 2&lt;/h2&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;h5&gt;This is headding 5&lt;/h5&gt;
+&lt;h6&gt;This is headding 6 (the less important one)&lt;/h6&gt;
+&lt;hr&gt;
+&lt;h4&gt;You'd like to create emphasis&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;_italic_ or *italic* and  __bold__ or **bold** and  
+***italic and bold*** or  ___italic and bold___  
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Here's the representation&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;italic&lt;/em&gt; or &lt;em&gt;italic&lt;/em&gt; and  &lt;strong&gt;bold&lt;/strong&gt; or &lt;strong&gt;bold&lt;/strong&gt; and&lt;br&gt;
+&lt;strong&gt;&lt;em&gt;italic and bold&lt;/em&gt;&lt;/strong&gt; or  &lt;strong&gt;&lt;em&gt;italic and bold&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;You'd like to add Links&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;[The showing text](http://the_url)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Here's the representation&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://thetechwanderer.com"&gt;The showing text&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;You'd like to add a blockquote&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;gt; This is my  
+&amp;gt; blockquote.
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Here's the representation&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is my&lt;br&gt;
+blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4&gt;You'd like to create Lists&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;- My unordered item 1
+- My unordered item 2
++ My unordered item 3
+* My unordered item 4
+    * My sub-unordered item 1
+
+
+1. My ordered item 1
+2. My ordered item 2
+3. My ordered item 3
+    1. My sub-ordered item 1
+    2. My sub-ordered item 2
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Here's the representation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;My unordered item 1&lt;/li&gt;
+&lt;li&gt;My unordered item 2&lt;/li&gt;
+&lt;li&gt;My unordered item 3&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My unordered item 4&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My sub-unordered item 1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My ordered item 1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;My ordered item 2&lt;/li&gt;
+&lt;li&gt;My ordered item 3&lt;ol&gt;
+&lt;li&gt;My sub-ordered item 1&lt;/li&gt;
+&lt;li&gt;My sub-ordered item 2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4&gt;You'd like to add an image&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;Alt&lt;/span&gt; &lt;span class="n"&gt;text&lt;/span&gt;&lt;span class="p"&gt;](&lt;/span&gt;&lt;span class="nl"&gt;http&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="c1"&gt;//image_url)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Here's the representation&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="/images/thetechwanderer_logo.svg"&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;You'd like to create tables&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nv"&gt;Header&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;Header&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;
+&lt;span class="s s-Atom"&gt;---&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="s s-Atom"&gt;---&lt;/span&gt;
+&lt;span class="s s-Atom"&gt;content&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="s s-Atom"&gt;content&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;
+
+
+&lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;Header&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="s s-Atom"&gt;align&lt;/span&gt; &lt;span class="s s-Atom"&gt;right&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;Header&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="s s-Atom"&gt;align&lt;/span&gt; &lt;span class="s s-Atom"&gt;center&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt;
+&lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="s s-Atom"&gt;-------------------:&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="p"&gt;:-&lt;/span&gt;&lt;span class="s s-Atom"&gt;------------------:&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt;
+&lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="s s-Atom"&gt;cell&lt;/span&gt; &lt;span class="s s-Atom"&gt;align&lt;/span&gt; &lt;span class="s s-Atom"&gt;right&lt;/span&gt;     &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="s s-Atom"&gt;cell&lt;/span&gt; &lt;span class="s s-Atom"&gt;align&lt;/span&gt; &lt;span class="s s-Atom"&gt;center&lt;/span&gt;     &lt;span class="p"&gt;|&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Here's the representation&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Header 1&lt;/th&gt;
+&lt;th&gt;Header 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;content 1&lt;/td&gt;
+&lt;td&gt;content 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="right"&gt;Header 1 align right&lt;/th&gt;
+&lt;th align="center"&gt;Header 2 align center&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;cell align right&lt;/td&gt;
+&lt;td align="center"&gt;cell align center&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4&gt;You'd like to add a line separator&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;---
+***
+___
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Here's the representation&lt;/h4&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h4&gt;You'd like to add code&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;`inline code`
+
+```
+multiple lines of code
+code blocks
+(can also be achieved with four spaces or
+one tabulation at the beginning of the code)
+```
+
+```python
+def my_fun():
+    language = &amp;quot;You can also specify a language to have highlights.&amp;quot;
+```
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Here's the representation&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;inline code&lt;/code&gt;  &lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;multiple lines of code
+code blocks
+(can also be achieved with four spaces or
+one tabulation at the beginning of the code)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;my_fun&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;language&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;You can also specify a language to have highlights.&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</content><category term="Markdown"></category><category term="pandoc"></category><category term="Markup language"></category><category term="static site generator"></category><category term="tool"></category><category term="HTML"></category></entry><entry><title>Pourquoi vous devriez commencer à utiliser Markdown dès aujourd'hui</title><link href="https://mplessard.github.io/fr/why-you-should-start-using-Markdown-today" rel="alternate"></link><published>2017-09-03T00:00:00-04:00</published><updated>2017-09-03T00:00:00-04:00</updated><author><name>Marie</name></author><id>tag:mplessard.github.io,2017-09-03:/fr/why-you-should-start-using-Markdown-today</id><summary type="html">&lt;h2&gt;Qu'est-ce que Markdown?&lt;/h2&gt;
+&lt;p&gt;Comme HTML, &lt;a href="https://en.wikipedia.org/wiki/Markdown" rel="nofollow" target="_blank"&gt;Markdown&lt;/a&gt; est un langage de Markup. Par rapport au HTML, Markdown est plus léger et plus facile à écrire et à lire. Les langages de balisage permettent d'annoter votre texte …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Qu'est-ce que Markdown?&lt;/h2&gt;
+&lt;p&gt;Comme HTML, &lt;a href="https://en.wikipedia.org/wiki/Markdown" rel="nofollow" target="_blank"&gt;Markdown&lt;/a&gt; est un langage de Markup. Par rapport au HTML, Markdown est plus léger et plus facile à écrire et à lire. Les langages de balisage permettent d'annoter votre texte à l'aide de balises, puis ces balises sont traitées et affichées sous forme de texte stylisé.&lt;/p&gt;
+&lt;p&gt;Voici un exemple rapide: vous souhaitez que votre texte soit en gras. Pour afficher le texte en gras, vous devez indiquer à votre éditeur de texte de l'afficher de cette façon. Pour ce faire, vous devrez écrire la phrase ornée de deux caractères de soulignement: &lt;code&gt;__Voici mon texte en gras__&lt;/code&gt; et vous obtiendrez: &lt;strong&gt;Voici mon texte en gras&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Où l'utilisons-nous?&lt;/h2&gt;
+&lt;p&gt;Markdown est plutôt cool puisqu'il crée des fichiers texte. Contrairement aux fichiers Word qui eux sont de type fichier binaires, les fichiers Markdown sont vraiment portable. Vous pouvez donc ouvrir les fichiers Markdown avec n'importe quel éditeur de texte et ce sans avoir à télécharger de logiciel supplémentaire.&lt;/p&gt;
+&lt;p&gt;J'utilise Markdown surtout pour prendre mes notes à l'université parce que c'est vraiment facile et rapide à utiliser. Si vous êtes un étudiant, peut-être que Markdown peut vous être utile! Sinon, il y a tellement d'autres façons de l'utiliser!&lt;/p&gt;
+&lt;p&gt;Par exemple, nous l'utilisons souvent pour écrire nos fichiers README pour des projets. Les outils de gestion de version en ligne tels que &lt;a href="http://gitlab.com" rel="nofollow" target="_blank"&gt;GitLab&lt;/a&gt; ou &lt;a href="http://github.com" rel="nofollow" target="_blank"&gt;GitHub&lt;/a&gt; offrent une vue formatée de ce langage de balisage ce qui le rend encore plus intéressant à utiliser.&lt;/p&gt;
+&lt;p&gt;Il existe aussi des outils tels que &lt;a href="http://middlemanapp.com" rel="nofollow" target="_blank"&gt;MiddleMan&lt;/a&gt; ou &lt;a href="http://jekyllrb.com" rel="nofollow" target="_blank"&gt;Jekyll&lt;/a&gt; qui vous permettent de créer un blog généré de manière statique à l'aide d'articles Markdown. Personnellement, j'utilise ce genre d'outil. D'ailleurs ce blog est en fait généré à l'aide de &lt;a href="http://docs.getpelican.com/en/stable/" rel="nofollow" target="_blank"&gt;Pelican&lt;/a&gt;. En gros, vous définissez les propriétés de votre site Web une fois, puis vous écrivez vos articles en Markdown et le générateur de blog statique créera des pages HTML avec vos articles et pages.&lt;/p&gt;
+&lt;p&gt;De plus, j'ai récemment découvert un outil intéressant. Vous pouvez télécharger une extension de navigateur appelée &lt;a href="http://markdown-here.com" rel="nofollow" target="_blank"&gt;Markdown here&lt;/a&gt;. Cette extension vous permet d'écrire des messages Markdown dans votre service de messagerie préféré et celle-ci stylisera vos messages pour vous.&lt;/p&gt;
+&lt;p&gt;Enfin, voici probablement ma façon préférée d'utiliser Markdown. Il existe un outil vraiment génial appelé &lt;a href="http://pandoc.org" rel="nofollow" target="_blank"&gt;pandoc&lt;/a&gt; et je l'aime! Cet outil peut passer d'un format de balisage à un autre. J'imagine que vous l'avez deviné, il convertit Markdown! Il est possible de convertir de Markdown à LaTeX, HTML, PDF, Word, etc. Les possibilités sont presque infinies. Avec l'aide de cet outil, j'ai réalisé de beaux projets comme, récemment, j'ai dû envoyer des lettres personnalisées à plus de 250 personnes. Pour ce faire, j'ai écrit une fois la lettre en Markdown, créé un script qui a remplacé les coordonnées des gens aux endroits réservés de cette lettre, puis, avec l'aide de pandoc, j'ai converti ces fichiers en un fichier PDF afin de les envoyer.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Alors maintenant, vous souhaitez essayer Markdown mais ne savez pas par où commencer. Il y a un moyen simple de l'essayer sans installer quoi que ce soit. Tout d'abord, regardez ma façon de l'utiliser, puis dirigez-vous vers &lt;a href="http://dillinger.io" rel="nofollow" target="_blank"&gt;Dillinger.io&lt;/a&gt;.  &lt;/p&gt;
+&lt;p&gt;J'utilise Markdown depuis un bon moment maintenant et je découvre de nouvelles façons je l'utiliser à tous les jours. Si vous avez appris de nouveaux trucs a propos de Markdown qui ne sont pas listé ci-haut, n'hésitez pas à les partager!&lt;/p&gt;
+&lt;h2&gt;Comment l'utiliser&lt;/h2&gt;
+&lt;p&gt;Voici un aide-mémoire Markdown en ligne. Si vous le souhaitez, vous pouvez également télécharger une version de cet aide-mémoire (créé avec pandoc!) en vous inscrivant à ma newsletter juste ici:  &lt;/p&gt;
+&lt;form action="//thetechwanderer.us16.list-manage.com/subscribe/post?u=f5d34732ac2950e036302d760&amp;amp;id=76dd81dbd5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate&gt;
+    &lt;div id="mc_embed_signup_scroll"&gt;
+    &lt;legend&gt;Obtient gratuitement ta feuille aide-mémoire Markdown&lt;/legend&gt;
+    &lt;div class="mui-textfield"&gt;
+    &lt;input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="adresse courriel" required&gt;
+    &lt;/div&gt;
+    &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;
+    &lt;input type="text" name="b_f5d34732ac2950e036302d760_76dd81dbd5" tabindex="-1" value=""&gt;
+    &lt;/div&gt;
+    &lt;div class="clear"&gt;&lt;input type="submit" value="soumettre" name="subscribe" id="mc-embedded-subscribe" class="mui-btn mui-btn--raised"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/form&gt;
+
+&lt;h4&gt;Vous souhaitez écrire des titres&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# C&amp;#39;est le titre 1 (le plus important)
+
+## C&amp;#39;est le titre 2
+
+...
+
+##### C&amp;#39;est le titre 5
+
+###### C&amp;#39;est le titre 6 (le moins important)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;h1&gt;C'est le titre 1 (le plus important)&lt;/h1&gt;
+&lt;h2&gt;C'est le titre 2&lt;/h2&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;h5&gt;C'est le titre 5&lt;/h5&gt;
+&lt;h6&gt;C'est le titre 6 (le moins important)&lt;/h6&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez mettre de l'accent&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;_italique_ ou * italique * et __gras__ ou ** gras ** et  
+*** italique et gras *** ou ___italique et gras___
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;italique&lt;/em&gt; ou * italique * et &lt;strong&gt;gras&lt;/strong&gt; ou &lt;strong&gt; gras &lt;/strong&gt; et&lt;br&gt;
+&lt;strong&gt;&lt;em&gt; italique et gras &lt;/em&gt;&lt;/strong&gt; ou &lt;strong&gt;&lt;em&gt;italique et gras&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez ajouter des liens&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;`
+[Le texte affiché](http://le_lien)&lt;/code&gt; `&lt;/p&gt;
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://thetechwanderer.com"&gt;Le texte affiché&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez ajouter un bloc de citation&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;gt; Ceci est mon
+&amp;gt; bloc de citation.
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ceci est mon
+bloc de citation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez créer des listes&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;- Mon article 1 non ordonné
+- Mon article 2 non ordonné
++ Mon article non ordonné 3
+* Mon article 4 non ordonné
+    * Mon article sous-désordonné 1
+
+
+1. Mon article ordonné 1
+2. Mon article ordonné 2
+3. Mon article ordonné 3
+    1. Mon article sous-ordonné 1
+    2. Mon article sous-ordonné 2
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Mon article 1 non ordonné&lt;/li&gt;
+&lt;li&gt;Mon article 2 non ordonné&lt;/li&gt;
+&lt;li&gt;Mon article non ordonné 3&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mon article 4 non ordonné&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mon article sous-désordonné 1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mon article ordonné 1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Mon article ordonné 2&lt;/li&gt;
+&lt;li&gt;Mon article ordonné 3&lt;ol&gt;
+&lt;li&gt;Mon article sous-ordonné 1&lt;/li&gt;
+&lt;li&gt;Mon article sous-ordonné 2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez ajouter une image&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;Texte&lt;/span&gt; &lt;span class="n"&gt;Alt&lt;/span&gt;&lt;span class="p"&gt;](&lt;/span&gt;&lt;span class="nl"&gt;http&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="c1"&gt;// image_url)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="/images/thetechwanderer_logo.svg"&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez créer des tables&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;En-tête 1 | En-tête 2
+--- | ---
+contenu 1 | contenu 2
+
+
+| En-tête 1 align droit | En-tête 2 alignent le centre |
+| -------------------: | : -------------------: |
+| cell align right right | centre d&amp;#39;alignement de cellules |
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;En-tête 1&lt;/th&gt;
+&lt;th&gt;En-tête 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;contenu 1&lt;/td&gt;
+&lt;td&gt;contenu 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="right"&gt;En-tête 1 align droit&lt;/th&gt;
+&lt;th align="center"&gt;En-tête 2 alignent le centre&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;cell align right right&lt;/td&gt;
+&lt;td align="center"&gt;centre d'alignement de cellules&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez ajouter un séparateur de ligne&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;---
+***
+___
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h4&gt;Vous souhaitez ajouter un code&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;`code inline`
+
+```
+multiples lignes de code
+blocs de code
+(peut également être réalisé avec quatre espaces ou
+une tabulation au début du code)
+```
+
+```python
+def my_fun ():
+    language = &amp;quot;Vous pouvez également spécifier un langage pour avoir la coloration syntaxique.&amp;quot;
+```
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Voici la représentation&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;code inline&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;multiples lignes de code
+blocs de code
+(peut également être réalisé avec quatre espaces ou
+une tabulation au début du code)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;my_fun&lt;/span&gt; &lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;language&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;Vous pouvez également spécifier un langage pour avoir la coloration syntaxique.&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</content><category term="Markdown"></category><category term="pandoc"></category><category term="langage de balisage"></category><category term="générateur de site statique"></category><category term="outil"></category><category term="HTML"></category></entry></feed>
