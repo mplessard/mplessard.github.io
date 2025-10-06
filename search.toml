@@ -13,8 +13,8 @@ url = "/pages/contact.html"
 title = "Contact"
 
 [[input.files]]
-path = "pates-alfredo-aux-champignons-poulet-câpres-et-olives-noires.html"
-url = "/pates-alfredo-aux-champignons-poulet-câpres-et-olives-noires.html"
+path = "pates-alfredo-aux-champignons-poulet-capres-et-olives-noires.html"
+url = "/pates-alfredo-aux-champignons-poulet-capres-et-olives-noires.html"
 title = "Pâtes alfredo aux champignons, poulet, câpres et olives noires"
 
 [[input.files]]
