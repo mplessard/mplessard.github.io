@@ -300,8 +300,26 @@
   .h-100 {
     height: calc(var(--spacing) * 100);
   }
+  .h-\[25vh\] {
+    height: 25vh;
+  }
+  .h-\[30vh\] {
+    height: 30vh;
+  }
+  .h-\[35vh\] {
+    height: 35vh;
+  }
+  .h-\[50vh\] {
+    height: 50vh;
+  }
   .h-full {
     height: 100%;
+  }
+  .max-h-100 {
+    max-height: calc(var(--spacing) * 100);
+  }
+  .max-h-\[50vh\] {
+    max-height: 50vh;
   }
   .w-full {
     width: 100%;
@@ -591,6 +609,36 @@
       display: none;
     }
   }
+  .md\:h-\[50vh\] {
+    @media (width >= 48rem) {
+      height: 50vh;
+    }
+  }
+  .md\:h-\[75vh\] {
+    @media (width >= 48rem) {
+      height: 75vh;
+    }
+  }
+  .md\:h-\[100vh\] {
+    @media (width >= 48rem) {
+      height: 100vh;
+    }
+  }
+  .md\:h-full {
+    @media (width >= 48rem) {
+      height: 100%;
+    }
+  }
+  .md\:h-screen {
+    @media (width >= 48rem) {
+      height: 100vh;
+    }
+  }
+  .md\:max-h-none {
+    @media (width >= 48rem) {
+      max-height: none;
+    }
+  }
   .md\:grid-cols-2 {
     @media (width >= 48rem) {
       grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -641,7 +689,6 @@
 }
 #image-container {
   text-align: center;
-  background-image: url("http://mplessard.github.io/theme/images/header.jpg");
   background-size: cover;
   vertical-align: center;
   margin: 0;
