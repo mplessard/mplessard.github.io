@@ -1,0 +1,68 @@
+[input]
+html_selector = "main"
+base_directory = "/Users/mplessard/WebstormProjects/pelican-mplessard.github.io/output"
+
+[[input.files]]
+path = "pages/a-propos.html"
+url = "/pages/a-propos.html"
+title = "À propos"
+
+[[input.files]]
+path = "pages/contact.html"
+url = "/pages/contact.html"
+title = "Contact"
+
+[[input.files]]
+path = "pates-alfredo-aux-champignons-poulet-câpres-et-olives-noires.html"
+url = "/pates-alfredo-aux-champignons-poulet-câpres-et-olives-noires.html"
+title = "Pâtes alfredo aux champignons, poulet, câpres et olives noires"
+
+[[input.files]]
+path = "quiche-poireaux-et-pancetta.html"
+url = "/quiche-poireaux-et-pancetta.html"
+title = "Quiche poireaux et pancetta"
+
+[[input.files]]
+path = "recette-soupe-foulet-et-nouilles.html"
+url = "/recette-soupe-foulet-et-nouilles.html"
+title = "Recette réconfortante de soupe foulet et nouilles"
+
+[[input.files]]
+path = "salade-de-fin-dété-au-quinoa.html"
+url = "/salade-de-fin-dété-au-quinoa.html"
+title = "Salade de fin d'été au quinoa"
+
+[[input.files]]
+path = "smoothie-energisant.html"
+url = "/smoothie-energisant.html"
+title = "Smoothie énergisant"
+
+[[input.files]]
+path = "limade-rafraichissante-a-la-menthe.html"
+url = "/limade-rafraichissante-a-la-menthe.html"
+title = "Limade rafraîchissante à la menthe"
+
+[[input.files]]
+path = "salade-de-fruits-d-ete.html"
+url = "/salade-de-fruits-d-ete.html"
+title = "Salade de fruits d'été"
+
+[[input.files]]
+path = "trucs-pour-un-sechage-plus-ecologique.html"
+url = "/trucs-pour-un-sechage-plus-ecologique.html"
+title = "Trucs pour un séchage plus écologique"
+
+[[input.files]]
+path = "recette-de-salade-rafraichissante-au-cantaloup-et-au-concombre.html"
+url = "/recette-de-salade-rafraichissante-au-cantaloup-et-au-concombre.html"
+title = "Recette de salade rafraîchissante au cantaloup et au concombre"
+
+[[input.files]]
+path = "nettoyant-tout-usage-ecologique.html"
+url = "/nettoyant-tout-usage-ecologique.html"
+title = "Nettoyant tout usage écologique"
+
+[[input.files]]
+path = "la-meilleure-salsa-du-verger.html"
+url = "/la-meilleure-salsa-du-verger.html"
+title = "La meilleure salsa du verger"
