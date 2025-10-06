@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+.playwrite-de-sas-text{
+    font-family: "Playwrite DE SAS", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-text {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+#image-container {
+    text-align: center;
+    background-image: url("http://127.0.0.1:8000/theme/images/header-unsplash.jpg");
+    background-size: cover;
+    vertical-align: center;
+    margin: 0;
+}
+
+#header-logo-image {
+    display: block;
+    padding: 100px;
+    margin: auto;
+}
+
+a:link {
+    color : black ;
+    text-decoration : none;
+}
+a:visited {
+    color : black ;
+}
+a:hover {
+    color: #8a76b8;
+    text-decoration : none;
+}
+
+.text-color-purple {
+    color: #8a76b8;
+}
+
+article h2 {
+    font-size: 1.5rem;
+    margin: 1em 0 0.5em 0;
+}
+
+article ul, ol {
+    margin-left: 1.7em;
+}
+
+article ul li::marker {
+    content: '− ';
+    font-size: 1.2em;
+}
+
+article ol li {
+    list-style-type: decimal;
+}
+
+article p {
+    margin-bottom: 1em;
+}
