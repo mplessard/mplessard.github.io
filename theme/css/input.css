@@ -17,7 +17,7 @@
 
 #image-container {
     text-align: center;
-    background-image: url("http://127.0.0.1:8000/theme/images/header-unsplash.jpg");
+    background-image: url("http://mplessard.github.io/theme/images/header.jpg");
     background-size: cover;
     vertical-align: center;
     margin: 0;
